@@ -1,4 +1,5 @@
 <img src="./assets/linkedin_aihawk.png">
+<img width="743" alt="Screenshot 2024-08-28 at 2 00 42 PM" src="https://github.com/user-attachments/assets/42acbd24-244e-4a06-8a3e-5657c42162f4">
 
 <!-- At first glance, the branding and messaging clearly conveys what to expect -->
 <div align="center">
